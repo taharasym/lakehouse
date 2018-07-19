@@ -8,6 +8,6 @@ public class LakeHouse
 
     public static void main(String [] args)
     {
-        System.out.println("Our Lake House test!!");
+        System.out.println("Our Lake House tests!!");
     }
 }
